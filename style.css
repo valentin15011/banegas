@@ -84,12 +84,8 @@ footer{
     background-color: rgb(227, 177, 177);
     height: 100%;
 }
-.main1{
-    background-image:url(img/imghome.jpg);
-    height: 1700px;
-    background-repeat: no-repeat;
-    width: 100%;
-}
+
+
 .main2{
     background-image:url(img/imgexperienciala.jpg);
     height: 1500px;
