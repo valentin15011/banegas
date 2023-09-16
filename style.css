@@ -55,7 +55,7 @@ a{
     color: rgb(0, 0, 0);
 }
 main{
-    background-image:url(img/imagdatos.jpg);
+    background-image:url(img/datosperimg.jpg);
     height: 1400px;
     background-repeat: no-repeat;
     width: 100%;
@@ -85,22 +85,25 @@ footer{
     height: 100%;
 }
 
-
 .main2{
-    background-image:url(img/imgexperienciala.jpg);
-    height: 1500px;
+    background-image: url(img/experimg.jpg);
+    height: 1400px;
     background-repeat: no-repeat;
     width: 100%;
+
 }
 .main3{
-    background-image:url(img/imgestudios.jpg);
-    height: 2500px;
+    background-image:url(img/estudioimg.jpg);
+    height: 1400px;
     background-repeat: no-repeat;
     width: 100%;
+
+
 }
 .main4{
-    background-image:url(img/imagcompetencia.jpg);
-    height: 1500px;
+    background-image:url(img/compeimg.jpg);
+    height: 1400px;
     background-repeat: no-repeat;
     width: 100%;
+
 }
