@@ -2,40 +2,52 @@ body {
     margin: 0;
     background: black;
     overflow: hidden;
- }
+}
 
-
- .lisnav{
+.navmemo{
+   
+   display: flex;
+   padding: 13px 37px 14px 47px;
+   justify-content: flex-end;
+   align-items: center;
+   flex-shrink: 0;
+   border-radius: 40px;
+   background-color: blueviolet;
+   width: 100%;
+   height: 5%;
+   text-decoration-color:blueviolet ;
+   margin-top: 10%;
+   
+}
+.memul{
    display: flex;
    width: 199px;
    height: 44px;
    justify-content: center;
    align-items: center;
    flex-shrink: 0;
-   Style
-   border-radius: 20px;
- }
- 
- .liStyle{
-   display: flex;
-   width: 199px;
-   height: 44px;
-   justify-content: center;
-   align-items: center;
+   
+   
+}
+.memora{
+   color: blueviolet;
+   border-block-start-style: none;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   text-align: left;
+   
+}
+.contememo{
+   width: 10%;
+   height: 1%;
    flex-shrink: 0;
-   Style
-   border-radius: 20px;
+   margin-left: 7%;
+   
+   
 
- }
+}
 
- #wrapper {
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-evenly;
- }
+
+
  
  #game {
     height: 100vh;
