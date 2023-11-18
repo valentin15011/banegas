@@ -39,13 +39,13 @@
 .navmemo{
    
     display: flex;
-    
+    padding: 13px 37px 14px 47px;
     justify-content: flex-end;
     align-items: center;
     flex-shrink: 0;
     border-radius: 40px;
     background-color: blueviolet;
-    width: 40%;
+    width: 140%;
     height: 5%;
     text-decoration-color:blueviolet ;
     
